@@ -148,7 +148,7 @@ h1 {
 
   @media (max-width: 576px){
     .container .card {
-        width: 25rem;
+        width: 20rem;
         padding: 0rem 3rem;
 
     }
